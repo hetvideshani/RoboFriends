@@ -1,0 +1,22 @@
+.body {
+  margin: 0px;
+  text-align: center;
+  padding-top: 50px;
+}
+
+.main {
+  margin: 70px;
+}
+
+.name {
+  font-size: xx-large;
+  font-weight: 700;
+}
+
+.card {
+  width: 15%;
+  display: inline-block;
+  margin: 30px;
+  background-color: rgb(38, 66, 90);
+  color: rgb(176, 205, 231);
+}
